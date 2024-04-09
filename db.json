@@ -2,7 +2,7 @@
   "films": [
     {
       "id": "2",
-      "title": "Manos: The Hands Of Fate",
+      "title": "MANOS: THE HANDS OF FATE",
       "runtime": "118",
       "capacity": 50,
       "showtime": "06:45PM",
@@ -12,7 +12,7 @@
     },
     {
       "id": "3",
-      "title": "Time Chasers",
+      "title": "TIME CHASERS",
       "runtime": "93",
       "capacity": 50,
       "showtime": "09:30PM",
@@ -22,7 +22,7 @@
     },
     {
       "id": "5",
-      "title": "Santa Claus Conquers The Martians",
+      "title": "SANTA CLAUS CONQUERS THE MARTIANS",
       "runtime": "96",
       "capacity": 50,
       "showtime": "03:30PM",
@@ -32,7 +32,7 @@
     },
     {
       "id": "6",
-      "title": "Track Of The Moon Beast",
+      "title": "TRACK Of THE MOON BEAST",
       "runtime": "112",
       "capacity": 30,
       "showtime": "10:30PM",
@@ -42,7 +42,7 @@
     },
     {
       "id": "7",
-      "title": "The Skydivers",
+      "title": "THE SKYDIVERS",
       "runtime": "94",
       "capacity": 30,
       "showtime": "07:30PM",
@@ -52,7 +52,7 @@
     },
     {
       "id": "8",
-      "title": "The Killer Shrews",
+      "title": "THE KILLER SHREWS",
       "runtime": "115",
       "capacity": 40,
       "showtime": "08:30PM",
@@ -62,7 +62,7 @@
     },
     {
       "id": "9",
-      "title": "Project Moon Base",
+      "title": "PROJECT MOON BASE",
       "runtime": "99",
       "capacity": 40,
       "showtime": "07:30PM",
@@ -72,7 +72,7 @@
     },
     {
       "id": "10",
-      "title": "The Giant Spider Invasion",
+      "title": "THE GIANT SPIDER INVASION",
       "runtime": "122",
       "capacity": 50,
       "showtime": "10:00PM",
@@ -82,7 +82,7 @@
     },
     {
       "id": "11",
-      "title": "Catalina Caper",
+      "title": "CATALINA CAPER",
       "runtime": "104",
       "capacity": 30,
       "showtime": "06:00PM",
@@ -92,7 +92,7 @@
     },
     {
       "id": "12",
-      "title": "Secret Agent Super Dragon",
+      "title": "SECRET AGENT SUPER DRAGON",
       "runtime": "104",
       "capacity": 30,
       "showtime": "07:00PM",
@@ -103,7 +103,7 @@
     },
     {
       "id": "13",
-      "title": "Wild Rebels",
+      "title": "WILD REBELS",
       "runtime": "100",
       "capacity": 40,
       "showtime": "09:00PM",
@@ -113,7 +113,7 @@
     },
     {
       "id": "14",
-      "title": "Danger: Diabolik",
+      "title": "DANGER: DIABOLIK",
       "runtime": "111",
       "capacity": 50,
       "showtime": "08:00PM",
@@ -123,7 +123,7 @@
     },
     {
       "id": "15",
-      "title": "Village Of The Giants",
+      "title": "VILLAGE OF THE GIANTS",
       "runtime": "98",
       "capacity": 50,
       "showtime": "04:45PM",
